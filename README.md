@@ -85,3 +85,7 @@ https://linkedin.com/in/jad-obeid-748a642a0
 ## 📄 License
 
 This project was created for educational and internship purposes.
+
+## 🌐 Live Demo
+
+https://jad-obeidd.github.io/synent-task6-githubapi-jadobeid/
