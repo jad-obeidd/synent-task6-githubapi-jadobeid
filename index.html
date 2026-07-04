@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GitHub Profile Finder</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="app">
+      <header class="header">
+        <div>
+          <p class="label">Synent Internship Task 6</p>
+          <h1>GitHub Profile Finder</h1>
+          <p class="subtitle">
+            Search any GitHub user and view profile details.
+          </p>
+        </div>
+
+        <button id="themeBtn" class="theme-btn">🌙</button>
+      </header>
+
+      <section class="search-box">
+        <input
+          type="text"
+          id="usernameInput"
+          placeholder="Enter GitHub username..."
+        />
+        <button id="searchBtn">Search</button>
+      </section>
+
+      <p id="message" class="message">
+        Try searching: Jad-Ob, torvalds, gaearon
+      </p>
+
+      <section id="profileCard" class="profile-card hidden"></section>
+
+      <section id="repoSection" class="repo-section hidden">
+        <h2>Top Repositories</h2>
+        <div id="repoList" class="repo-list"></div>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
