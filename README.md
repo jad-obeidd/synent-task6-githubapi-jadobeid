@@ -62,7 +62,7 @@ Open `index.html` in your browser.
 
 ## 📸 Preview
 
-_Add project screenshots here._
+![Githubapi](photo.png)
 
 ## 📌 Future Improvements
 
@@ -71,6 +71,11 @@ _Add project screenshots here._
 - Recent search history
 - User organizations
 - Repository pagination
+
+## 🌐 Live Demo
+
+https://jad-obeidd.github.io/synent-task6-githubapi-jadobeid/
+- 
 
 ## 👨‍💻 Author
 
@@ -86,6 +91,4 @@ https://linkedin.com/in/jad-obeid-748a642a0
 
 This project was created for educational and internship purposes.
 
-## 🌐 Live Demo
 
-https://jad-obeidd.github.io/synent-task6-githubapi-jadobeid/
