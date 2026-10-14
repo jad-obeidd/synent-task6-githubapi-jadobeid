@@ -59,7 +59,7 @@ Open `index.html` in your browser. No API key, installation, or build step is re
 ## Author
 
 **Jad Obeid**  
-[GitHub](https://github.com/jad-obeidd) · [LinkedIn](https://www.linkedin.com/in/jad-obeid-748a642a0/)
+[GitHub](https://github.com/jad-obeidd) · [LinkedIn](https://www.linkedin.com/in/jad-obeid-dev)
 
 ## Note
 
